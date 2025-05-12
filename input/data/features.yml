@@ -1,0 +1,7 @@
+---
+disable_autonumbering: true
+feedback:
+  - active: true
+    dashboard:
+      label: New Issue
+      url: https://github.com/davidouagne/hl7.fhir.fr.core.test/issues/new?template=Blank+issue
